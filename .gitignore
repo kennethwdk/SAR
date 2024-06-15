@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.dist_test/
+data
+weights/
+work_dirs_old/
+moniter_gpu.py
+
 # C extensions
 *.so
 
